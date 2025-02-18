@@ -1,0 +1,99 @@
+INFORME DE INFERENCIA DE IDs DE CAMIONES MINEROS
+==================================================
+
+Imagen 1: andina_144.jpg
+  ID esperado: 144
+  ID predicho: 144
+  Coincidencia: SÍ
+
+Imagen 2: anglo_74.jpg
+  ID esperado: 74
+  ID predicho: 74
+  Coincidencia: SÍ
+
+Imagen 3: chuqui_460.jpg
+  ID esperado: 460
+  ID predicho: 460
+  Coincidencia: SÍ
+
+Imagen 4: cmdic_105.png
+  ID esperado: 105
+  ID predicho: 105
+  Coincidencia: SÍ
+
+Imagen 5: cmdic_160.jpeg
+  ID esperado: 160
+  ID predicho: 160
+  Coincidencia: SÍ
+
+Imagen 6: det_302.jpg
+  ID esperado: 302
+  ID predicho: 302
+  Coincidencia: SÍ
+
+Imagen 7: dmh_314.jpeg
+  ID esperado: 314
+  ID predicho: 314
+  Coincidencia: SÍ
+
+Imagen 8: mel_336.jpg
+  ID esperado: 336
+  ID predicho: 336
+  Coincidencia: SÍ
+
+Imagen 9: mel_351.jpg
+  ID esperado: 351
+  ID predicho: 351
+  Coincidencia: SÍ
+
+Imagen 10: pelambres_56.jpg
+  ID esperado: 56
+  ID predicho: 56
+  Coincidencia: SÍ
+
+Imagen 11: rt_204_2.jpeg
+  ID esperado: 204
+  ID predicho: 204
+  Coincidencia: SÍ
+
+Imagen 12: sg_115.jpg
+  ID esperado: 115
+  ID predicho: 115
+  Coincidencia: SÍ
+
+Imagen 13: sg_144.jpg
+  ID esperado: 144
+  ID predicho: 144
+  Coincidencia: SÍ
+
+Imagen 14: unknown_109.jpg
+  ID esperado: 109
+  ID predicho: 109
+  Coincidencia: SÍ
+
+Imagen 15: unknown_45.jpg
+  ID esperado: 45
+  ID predicho: 45
+  Coincidencia: SÍ
+
+Imagen 16: unknown_691.jpg
+  ID esperado: 691
+  ID predicho: 691
+  Coincidencia: SÍ
+
+Imagen 17: unknown_717.jpg
+  ID esperado: 717
+  ID predicho: 717
+  Coincidencia: SÍ
+
+Imagen 18: unknown_81.jpg
+  ID esperado: 81
+  ID predicho: 81
+  Coincidencia: SÍ
+
+
+ESTADÍSTICAS
+====================
+Total imágenes: 18
+Coincidencias: 18
+Precisión: 100.00%
