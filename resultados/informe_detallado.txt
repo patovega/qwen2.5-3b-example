@@ -1,99 +1,334 @@
 INFORME DE INFERENCIA DE IDs DE CAMIONES MINEROS
 ==================================================
 
-Imagen 1: andina_144.jpg
+Imagen 1: amsa_80.jpg
+  ID esperado: 80
+  ID predicho: 80
+  Coincidencia: SÍ
+
+Imagen 2: andina_144.jpg
   ID esperado: 144
   ID predicho: 144
   Coincidencia: SÍ
 
-Imagen 2: anglo_74.jpg
+Imagen 3: anglo_58.jpg
+  ID esperado: 58
+  ID predicho: 58
+  Coincidencia: SÍ
+
+Imagen 4: anglo_74.jpg
   ID esperado: 74
   ID predicho: 74
   Coincidencia: SÍ
 
-Imagen 3: chuqui_460.jpg
+Imagen 5: centinela_16.jpg
+  ID esperado: 16
+  ID predicho: 16
+  Coincidencia: SÍ
+
+Imagen 6: centinela_17.jpg
+  ID esperado: 17
+  ID predicho: 17
+  Coincidencia: SÍ
+
+Imagen 7: centinela_201.jpg
+  ID esperado: 201
+  ID predicho: 201
+  Coincidencia: SÍ
+
+Imagen 8: centinela_205.jpg
+  ID esperado: 205
+  ID predicho: 205
+  Coincidencia: SÍ
+
+Imagen 9: centinela_210.jpg
+  ID esperado: 210
+  ID predicho: 210
+  Coincidencia: SÍ
+
+Imagen 10: centinela_210_2.jpg
+  ID esperado: 210
+  ID predicho: 210
+  Coincidencia: SÍ
+
+Imagen 11: centinela_44.jpg
+  ID esperado: 44
+  ID predicho: 44
+  Coincidencia: SÍ
+
+Imagen 12: centinela_48.jpg
+  ID esperado: 48
+  ID predicho: 48
+  Coincidencia: SÍ
+
+Imagen 13: chuqui_460.jpg
   ID esperado: 460
   ID predicho: 460
   Coincidencia: SÍ
 
-Imagen 4: cmdic_105.png
+Imagen 14: chuqui_g130.jpg
+  ID esperado: 130
+  ID predicho: 820
+  Coincidencia: NO
+
+Imagen 15: cmdic_105.png
   ID esperado: 105
   ID predicho: 105
   Coincidencia: SÍ
 
-Imagen 5: cmdic_160.jpeg
+Imagen 16: cmdic_160.jpeg
   ID esperado: 160
   ID predicho: 160
   Coincidencia: SÍ
 
-Imagen 6: det_302.jpg
+Imagen 17: cmdic_160_2.jpeg
+  ID esperado: 160
+  ID predicho: 965
+  Coincidencia: NO
+
+Imagen 18: cmdic_180.jpg
+  ID esperado: 180
+  ID predicho: 180
+  Coincidencia: SÍ
+
+Imagen 19: cmdic_59.jpg
+  ID esperado: 59
+  ID predicho: 930
+  Coincidencia: NO
+
+Imagen 20: cmdic_94.png
+  ID esperado: 94
+  ID predicho: 888
+  Coincidencia: NO
+
+Imagen 21: cmp_428.jpg
+  ID esperado: 428
+  ID predicho: 4228
+  Coincidencia: NO
+
+Imagen 22: det_302.jpg
   ID esperado: 302
   ID predicho: 302
   Coincidencia: SÍ
 
-Imagen 7: dmh_314.jpeg
+Imagen 23: dgm_13.jpg
+  ID esperado: 13
+  ID predicho: 13
+  Coincidencia: SÍ
+
+Imagen 24: dmh_012.jpg
+  ID esperado: 12
+  ID predicho: 12
+  Coincidencia: SÍ
+
+Imagen 25: dmh_314.jpeg
   ID esperado: 314
   ID predicho: 314
   Coincidencia: SÍ
 
-Imagen 8: mel_336.jpg
-  ID esperado: 336
-  ID predicho: 336
-  Coincidencia: SÍ
-
-Imagen 9: mel_351.jpg
-  ID esperado: 351
-  ID predicho: 351
-  Coincidencia: SÍ
-
-Imagen 10: pelambres_56.jpg
-  ID esperado: 56
-  ID predicho: 56
-  Coincidencia: SÍ
-
-Imagen 11: rt_204_2.jpeg
-  ID esperado: 204
-  ID predicho: 204
-  Coincidencia: SÍ
-
-Imagen 12: sg_115.jpg
-  ID esperado: 115
-  ID predicho: 115
-  Coincidencia: SÍ
-
-Imagen 13: sg_144.jpg
+Imagen 26: escondida_144.jpg
   ID esperado: 144
   ID predicho: 144
   Coincidencia: SÍ
 
-Imagen 14: unknown_109.jpg
+Imagen 27: escondida_150.jpg
+  ID esperado: 150
+  ID predicho: 150
+  Coincidencia: SÍ
+
+Imagen 28: mel_336.jpg
+  ID esperado: 336
+  ID predicho: 336
+  Coincidencia: SÍ
+
+Imagen 29: mel_351.jpg
+  ID esperado: 351
+  ID predicho: 351
+  Coincidencia: SÍ
+
+Imagen 30: pelambres_56.jpg
+  ID esperado: 56
+  ID predicho: 56
+  Coincidencia: SÍ
+
+Imagen 31: pelambres_64.jpg
+  ID esperado: 64
+  ID predicho: 64
+  Coincidencia: SÍ
+
+Imagen 32: rt_204.jpeg
+  ID esperado: 204
+  ID predicho: 204
+  Coincidencia: SÍ
+
+Imagen 33: rt_204_2.jpeg
+  ID esperado: 204
+  ID predicho: 204
+  Coincidencia: SÍ
+
+Imagen 34: rt_485.jpg
+  ID esperado: 485
+  ID predicho: 485
+  Coincidencia: SÍ
+
+Imagen 35: rt_871.jpg
+  ID esperado: 871
+  ID predicho: 871
+  Coincidencia: SÍ
+
+Imagen 36: sg_114.jpg
+  ID esperado: 114
+  ID predicho: 114
+  Coincidencia: SÍ
+
+Imagen 37: sg_115.jpg
+  ID esperado: 115
+  ID predicho: 115
+  Coincidencia: SÍ
+
+Imagen 38: sg_125.jpg
+  ID esperado: 125
+  ID predicho: 125
+  Coincidencia: SÍ
+
+Imagen 39: sg_144.jpg
+  ID esperado: 144
+  ID predicho: 144
+  Coincidencia: SÍ
+
+Imagen 40: sg_158.jpg
+  ID esperado: 158
+  ID predicho: 158
+  Coincidencia: SÍ
+
+Imagen 41: sg_166.jpg
+  ID esperado: 166
+  ID predicho: 166
+  Coincidencia: SÍ
+
+Imagen 42: unknown_109.jpg
   ID esperado: 109
   ID predicho: 109
   Coincidencia: SÍ
 
-Imagen 15: unknown_45.jpg
+Imagen 43: unknown_112.jpeg
+  ID esperado: 112
+  ID predicho: 20112
+  Coincidencia: NO
+
+Imagen 44: unknown_131.jpg
+  ID esperado: 131
+  ID predicho: 2828
+  Coincidencia: NO
+
+Imagen 45: unknown_172.jpg
+  ID esperado: 172
+  ID predicho: 172
+  Coincidencia: SÍ
+
+Imagen 46: unknown_25.jpg
+  ID esperado: 25
+  ID predicho: 25
+  Coincidencia: SÍ
+
+Imagen 47: unknown_251.jpg
+  ID esperado: 251
+  ID predicho: 251
+  Coincidencia: SÍ
+
+Imagen 48: unknown_259.jpeg
+  ID esperado: 259
+  ID predicho: 253
+  Coincidencia: NO
+
+Imagen 49: unknown_284.jpg
+  ID esperado: 284
+  ID predicho: 284
+  Coincidencia: SÍ
+
+Imagen 50: unknown_31.jpg
+  ID esperado: 31
+  ID predicho: 31
+  Coincidencia: SÍ
+
+Imagen 51: unknown_330.jpg
+  ID esperado: 330
+  ID predicho: 330
+  Coincidencia: SÍ
+
+Imagen 52: unknown_336.jpg
+  ID esperado: 336
+  ID predicho: 336
+  Coincidencia: SÍ
+
+Imagen 53: unknown_365.jpg
+  ID esperado: 365
+  ID predicho: 365
+  Coincidencia: SÍ
+
+Imagen 54: unknown_45.jpg
   ID esperado: 45
   ID predicho: 45
   Coincidencia: SÍ
 
-Imagen 16: unknown_691.jpg
+Imagen 55: unknown_453.jpg
+  ID esperado: 453
+  ID predicho: 853
+  Coincidencia: NO
+
+Imagen 56: unknown_691.jpg
   ID esperado: 691
   ID predicho: 691
   Coincidencia: SÍ
 
-Imagen 17: unknown_717.jpg
+Imagen 57: unknown_717.jpg
   ID esperado: 717
   ID predicho: 717
   Coincidencia: SÍ
 
-Imagen 18: unknown_81.jpg
+Imagen 58: unknown_8032.jpg
+  ID esperado: 8032
+  ID predicho: 8032
+  Coincidencia: SÍ
+
+Imagen 59: unknown_81.jpg
   ID esperado: 81
   ID predicho: 81
+  Coincidencia: SÍ
+
+Imagen 60: unknown_917.jpg
+  ID esperado: 917
+  ID predicho: 917
+  Coincidencia: SÍ
+
+Imagen 61: unknown_92.jpeg
+  ID esperado: 92
+  ID predicho: 92
+  Coincidencia: SÍ
+
+Imagen 62: unknown_935.jpg
+  ID esperado: 935
+  ID predicho: 938
+  Coincidencia: NO
+
+Imagen 63: unknown_95.jpg
+  ID esperado: 95
+  ID predicho: 930
+  Coincidencia: NO
+
+Imagen 64: unknown_c100.jpg
+  ID esperado: 100
+  ID predicho: 100
+  Coincidencia: SÍ
+
+Imagen 65: unknown_f301.jpg
+  ID esperado: 301
+  ID predicho: 301
   Coincidencia: SÍ
 
 
 ESTADÍSTICAS
 ====================
-Total imágenes: 18
-Coincidencias: 18
-Precisión: 100.00%
+Total imágenes: 65
+Coincidencias: 54
+Precisión: 83.08%

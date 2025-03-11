@@ -184,7 +184,7 @@ def extract_numbers(input_string):
     return without_leading_zeros
  
 
-def process_image_batch(folder_path, model, processor, query_text, max_images=18):
+def process_image_batch(folder_path, model, processor, query_text, max_images=65):
     """Procesa un lote de imágenes y compara los IDs inferidos con los nombres de archivo."""
     results = []
     supported_extensions = ['.jpg', '.jpeg', '.png', '.bmp']
@@ -284,7 +284,7 @@ def main():
         IMAGES_FOLDER = r"C:\Users\patri\Documents\ia\llm\qwen\images"
         
         # PROMT
-        QUERY = "Provide only the identification number (ID) of the mining truck [unit/fleet number]. I only need the numeric or alphanumeric ID. Exclude 797, 791, 930 as these are truck model numbers, not identification numbers."
+        QUERY = "Provide only the identification number (ID) of the mining truck [unit/fleet number]. I only need the numeric or alphanumeric ID. Exclude 797, 797B, 930E, 930, 965,650, 791 as these are truck model numbers, not identification numbers."
         results = process_image_batch(IMAGES_FOLDER, model, processor, QUERY)
 
         visualize_results(results)

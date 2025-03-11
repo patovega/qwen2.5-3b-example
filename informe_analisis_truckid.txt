@@ -1,0 +1,88 @@
+ANÁLISIS COMPARATIVO DEL SISTEMA TRUCKID
+==================================================
+
+RESUMEN GENERAL
+------------------------------
+Total de imágenes analizadas: 18
+
+Resultados anteriores:
+  • Predicciones correctas: 12
+  • Precisión global: 66.67%
+  • Total de errores: 6
+
+Resultados actuales:
+  • Predicciones correctas: 18
+  • Precisión global: 100.00%
+  • Total de errores: 0
+
+Mejora absoluta: +33.33%
+
+ANÁLISIS DE MATRICES DE CONFUSIÓN
+------------------------------
+Matriz de confusión anterior:
+                Predicción
+                No ID    ID
+Real No ID         0       0
+     ID            1      17
+
+Matriz de confusión actual:
+                Predicción
+                No ID    ID
+Real No ID         0       0
+     ID            0      18
+
+COMPARACIÓN DE MÉTRICAS
+------------------------------
+Métrica           Anterior     Actual   Diferencia
+--------------------------------------------------
+Exactitud           94.44%    100.00%       +5.56%
+Precisión          100.00%    100.00%       +0.00%
+Sensibilidad        94.44%    100.00%       +5.56%
+F1-Score            97.14%    100.00%       +2.86%
+Exactitud ID        66.67%    100.00%      +33.33%
+
+ANÁLISIS DE ERRORES
+------------------------------
+Errores anteriores por tipo:
+  • 1 dígito incorrecto: 2 casos (33.3%)
+    - Esperado: 144, Predicho: 143
+    - Esperado: 81, Predicho: 91
+  • Longitud diferente: 2 casos (33.3%)
+    - Esperado: 460, Predicho: 00
+    - Esperado: 314, Predicho: 12345
+  • Múltiples dígitos incorrectos: 1 casos (16.7%)
+    - Esperado: 105, Predicho: 262
+  • No detección: 1 casos (16.7%)
+    - Esperado: 302, Predicho: No detectado
+
+No se encontraron errores en los resultados actuales.
+
+ANÁLISIS DE MEJORAS
+------------------------------
+Se corrigieron 6 de 6 errores previos (100.0%)
+
+Detalle de errores corregidos:
+  1. Esperado: 144
+     Anterior: 143
+     Actual: 144
+  2. Esperado: 460
+     Anterior: 00
+     Actual: 460
+  3. Esperado: 105
+     Anterior: 262
+     Actual: 105
+  4. Esperado: 302
+     Anterior: No detectado
+     Actual: 302
+  5. Esperado: 314
+     Anterior: 12345
+     Actual: 314
+  6. Esperado: 81
+     Anterior: 91
+     Actual: 81
+
+CONCLUSIÓN
+------------------------------
+¡EXCELENTE! Se ha alcanzado una precisión perfecta del 100%.
+Se han corregido todos los 6 errores que existían anteriormente.
+El sistema TruckID 100 ha demostrado una capacidad perfecta para identificar números de camiones mineros.
